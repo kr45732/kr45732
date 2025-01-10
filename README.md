@@ -30,45 +30,6 @@
 
 ---
 
-### Highlighted Projects:
-<table>
-  <tr>
-    <td>
-      <h3>Skyblock Plus</h3>
-      <p>Source code for the Skyblock Plus Discord Bot <br/><a href="https://github.com/kr45732/skyblock-plus">Link</a></p>
-      <p>
-        <strong>Language:</strong> Java · ⭐ 25 · 🍴 5
-      </p>
-    </td>
-    <td>
-      <h3>Rust Query API</h3>
-      <p>A versatile API facade for the Hypixel Auction API <br/><a href="https://github.com/kr45732/rust-query-api">Link</a></p>
-      <p>
-        <strong>Language:</strong> Rust · ⭐ 18 · 🍴 10
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>Skyblock Plus Data</h3>
-      <p>Automated data management for the Skyblock Plus Discord Bot <br/><a href="https://github.com/kr45732/skyblock-plus-data">Link</a></p>
-      <p>
-        <strong>Language:</strong> JSON · ⭐ 12 · 🍴 9
-      </p>
-    </td>
-    <td>
-      <h3>Skyblock Plus Website</h3>
-      <p>Website to support the Skyblock Plus Discord Bot <br/><a href="https://github.com/kr45732/skyblock-plus-web">Link</a></p>
-      <p>
-        <strong>Language:</strong> Svelte · ⭐ 6 · 🍴 1
-      </p>
-    </td>
-  </tr>
-</table>
-
-
----
-
 ### Statistics:
 <div>
   <img align="center" height="175em" src="https://github-readme-stats.vercel.app/api?username=kr45732&count_private=true&show_icons=true&theme=tokyonight" />
